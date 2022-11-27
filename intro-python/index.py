@@ -16,3 +16,8 @@ print(correo)
 
 _mi_var = "chanchito"
 MIVAR23 = "chanchito"
+a, b, c = "Lala", "Lele", "Lili"
+print(a, b, c)
+
+valor1 =  valor2 = valor3 = "Chanchito feliz"
+print(valor1, valor2, valor3) 
