@@ -21,3 +21,8 @@ print(a, b, c)
 
 valor1 =  valor2 = valor3 = "Chanchito feliz"
 print(valor1, valor2, valor3) 
+
+inicio = "Hola "
+final = "mundo"
+
+print(inicio + final)
